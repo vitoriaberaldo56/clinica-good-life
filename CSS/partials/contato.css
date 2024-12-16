@@ -1,0 +1,60 @@
+#contato{
+    width: 95%;
+    margin: 0 auto;
+    border-radius: 20px;
+    background: white;
+    padding: 10px;
+    margin-bottom: 200px;
+}
+
+#contato-info{
+    width: 30%;
+}
+
+#contato-info h3{
+    margin: 50px 0;
+    font-weight: bold;
+    font-size: 3em;
+}
+
+#contato-info i{
+    font-size: 2.5em;
+    color: var(--laranja-escuro);
+}
+
+#contato-info h4{
+    display: inline-block;
+    font-size: 2em;
+    margin-bottom: 10px;
+}
+
+#contato-info p{
+    font-size: 1.2em;
+    margin-left: 20px;
+}
+
+form{
+    width: 30%;
+    margin-left: 10px;
+}
+
+form h3{
+    margin: 60px 0;
+    font-weight: bold;
+    font-size: 2.5em;
+    width: 190px;
+}
+
+label{
+    font-size: 2em;
+    font-weight: bold;
+    margin-bottom: 10px;
+}
+
+button{
+    font-size: 1.5em;
+    width: 100%;
+    height: 50px;
+    color: white;
+    background: var(--laranja);
+}

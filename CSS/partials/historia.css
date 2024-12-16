@@ -1,0 +1,11 @@
+#historia h2{
+    font-size: 3em;
+    font-weight: bold;
+    margin-bottom: 50px;
+}
+
+#historia p{
+    font-weight: lighter;
+    font-size: 2em;
+    margin: 0 auto;
+}

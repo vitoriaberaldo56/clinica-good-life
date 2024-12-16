@@ -1,0 +1,45 @@
+:root{
+    --amarelo: #DBD118;
+    --azul: #5989FA;
+    --verde: #4BDBD5;
+    --laranja: #DD8A4B;
+    --laranja-escuro: #B14D00;
+    --preto: #000007;
+    --cinza-verde: #D3EDEC;
+}
+
+.wd-90{
+    width: 90%;
+}
+
+@font-face {
+    font-family: 'Valentina';
+    src: url(/assets/fonts/best_valentina/Best\ Valentina\ OTF.otf);
+}
+
+li{
+    list-style: none;
+}
+
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    background: var(--cinza-verde);
+}
+
+#container{
+    padding: 0 50px;
+}
+
+h4{
+    display: inline;
+}
+
+hr{
+    margin: 110px auto;
+    width: 30%;
+    border: 2px solid var(--verde);
+}

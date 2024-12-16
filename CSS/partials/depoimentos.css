@@ -1,0 +1,32 @@
+#depoimentos{
+    color: white;
+    margin: 150px auto;
+    width: 95%;
+    border-radius: 20px;
+    background: var(--laranja);
+    padding: 20px;
+}
+
+#depoimentos h2{
+    font-size: 2em;
+}
+
+#depoimentos>p{
+    font: italic 1.2em bold, sans-serif;
+}
+
+#depoimentos ul{
+    margin: 0 auto;
+    width: 80%;
+}
+
+#depoimentos li{
+    text-align: center;
+    width: 20%;
+    margin-bottom: 50px;
+
+}
+
+#depoimentos li p{
+    font-size: 1em;
+}

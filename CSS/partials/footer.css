@@ -1,0 +1,36 @@
+footer{
+    height: 200px;
+    padding-top: 25px;
+    background: var(--laranja);
+    color: white;
+}
+
+#endereco h6{
+    font-size: 1.2em;
+    margin-bottom: 20px;
+    font-weight: lighter;
+}
+
+#horario h5,
+#horario h6{
+    font-size: 1.2em;
+    margin-bottom: 20px;
+    font-weight: lighter;
+}
+
+#links a{
+    display: block;
+    font-size: 1em;
+    margin: 10px 0;
+    color: white;
+}
+
+footer i{
+    font-size: 2.5em;
+    margin-right: 20px;
+    color: white;
+}
+
+footer i:hover{
+    color: black;
+}

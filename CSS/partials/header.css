@@ -1,0 +1,35 @@
+header{
+    background: var(--verde);
+    width: 100%;
+    padding: 15px 0;
+    margin-bottom: 50px;
+}
+
+nav{
+    margin: 0 auto;
+    align-items: center;
+    justify-content: space-between;
+    padding: 0 10px;
+}
+
+nav h1{
+    font-family: Valentina;
+    color: white;
+}
+
+#logo:hover{
+    text-decoration: none;
+}
+
+#menu li a{
+    color: white;
+    font-weight: 500;
+    font-size: 1.3em;
+    padding: 0 10px;
+}
+
+#menu li a:hover{
+    text-decoration: none;
+    color: var(--laranja-escuro);
+    transition: all 1s;
+}

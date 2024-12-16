@@ -1,0 +1,32 @@
+#msv{
+    margin: 180px auto;
+}
+
+#msv-items ul{
+    justify-content: space-around;
+}
+
+#msv-items li{
+    border-radius: 20px;
+    padding: 20px 40px 60px;
+    width: 25%;
+    border: 2px solid var(--laranja-escuro);
+}
+
+#msv-items li:hover{
+    box-shadow: 1px 1px 10px 1px var(--laranja-escuro);
+    transition: all 0.3s;
+}
+
+#msv-items h4{
+    display: block;
+    color: var(--laranja-escuro);
+    font-size: 2.5em;
+    font-weight: bold;
+    margin-bottom: 20px;
+}
+
+#msv-items p{
+    font-size: 1.5em;
+    font-weight: lighter;
+}

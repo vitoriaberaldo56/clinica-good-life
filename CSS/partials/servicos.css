@@ -1,0 +1,29 @@
+#servicos{
+    margin-bottom: 150px;
+}
+
+#servicos h2{
+    font-size: 3em;
+    font-weight: bold;
+    margin-bottom: 150px;
+}
+
+#servicos ul{
+    margin: 0 auto;
+    justify-content: space-around;
+}
+
+#servicos p{
+    font-weight: bold;
+    font-size: 1.5em;
+
+}
+
+#servicos img{
+    width: 290px;
+    margin-bottom: 20px;
+}
+
+#servicos img:hover{
+    cursor: pointer;
+}

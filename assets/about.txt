@@ -1,0 +1,77 @@
+ROOT
+
+CORES
+
+--amarelo: #DBD118;
+--azul: #5989FA;
+--verde: #4BDBD5;
+--laranja: #DD8A4B;
+--laranja-escuro: #B14D00;
+--preto: #000007;
+--cinza-verde: #D3EDEC;
+
+
+FONTES
+
+--Poiret One: <style>
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans:ital,wght@0,100..900;1,100..900&family=Poiret+One&family=Space+Grotesk:wght@300..700&display=swap');
+</style>
+
+--Best Valentina: C:\Users\vitor\OneDrive\Área de Trabalho\TREINO-HTML\CLINICA\assets\fonts\best_valentina
+
+
+
+Site da Clínica Médica/Odontológica  🆗
+  •Página Inicial
+    Missão e visão
+    Imagem destacada
+    Botões de ação rápida
+
+  •Sobre Nós 🆗
+    História da clínica
+    Equipe médica
+      Nome
+      Especialidade
+      Formação
+      Foto
+    Estrutura e equipamentos
+
+    >**Sobre Nós**  
+
+      Fundada com o compromisso de oferecer cuidado e excelência em saúde, a Clínica [Nome da Clínica] nasceu do sonho de criar um espaço acolhedor e acessível para todos. Com anos de experiência, nossa equipe de profissionais especializados trabalha com dedicação para proporcionar atendimento humanizado e personalizado.  
+
+      Nossa história é marcada pela busca constante de inovação, tecnologia de ponta e um ambiente confortável para nossos pacientes. Desde o início, seguimos nossa missão de promover bem-estar e qualidade de vida, sempre pautados em valores como ética, respeito e confiança.  
+
+      Venha conhecer a nossa história e fazer parte dela!
+
+  •Serviços 🆗
+    Clínica Geral
+    Odontopediatria
+    Ortodontia
+
+  •Agendamento Online
+    Formulário de agendamento
+      Nome, e-mail, telefone
+      Escolha do serviço e horário
+    Confirmação por e-mail
+
+  •Contato
+    Endereço e mapa integrado
+    Telefone e WhatsApp
+    Formulário de dúvidas
+
+  •Depoimentos 🆗
+    Avaliações de pacientes
+    Antes e depois
+
+  ***•Blog/Notícias
+    Artigos sobre saúde bucal
+    Informativos sobre campanhas
+  Política de Privacidade
+    Proteção de dados
+    Uso de informações***
+
+  •Footer
+    Links rápidos
+    Redes sociais
+    Copyright

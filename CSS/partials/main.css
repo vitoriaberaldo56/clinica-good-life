@@ -1,0 +1,32 @@
+#main-text{
+    margin-left: 100px;
+}
+
+#main-text h2{
+    font-weight: bold;
+    font-size: 3em;
+    width: 350px;
+    color: var(--laranja-escuro);
+    margin-bottom: 50px;
+}
+
+#main-text p{
+    font-size: 1.2em;
+    width: 35%;
+    margin-bottom: 50px;
+}
+
+#main-text button{
+    background: none;
+    font-size: 1.4em;
+    color: var(--laranja-escuro);
+    width: 150px;
+    border: 2px solid var(--laranja-escuro);
+    border-radius: 10px;
+}
+
+#main-text button:hover{
+    background: var(--laranja-escuro);
+    color: white;
+    transition: all 0.3s;
+}
